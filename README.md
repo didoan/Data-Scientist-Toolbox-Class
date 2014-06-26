@@ -1,4 +1,4 @@
-Data-Scientist-Toolbox-Class2
+Data-Scientist-Toolbox-Class
 =============================
 
 Class projects
